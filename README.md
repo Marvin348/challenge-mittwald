@@ -43,7 +43,6 @@ docker compose up -d
 npm run dev --prefix client
 ```
 
-- Frontend: http://localhost:5173
 - Backend-Status: http://localhost:3000/health
 
 #### Umsetzung
